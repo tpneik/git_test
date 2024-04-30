@@ -1,8 +1,10 @@
 # git_test
 Main branch 
 Commit 1st
-Commit 2st
-Commit 2st
-Commit 2st
-Commit 2st
-add 
+Branch1: Commit 2nd
+Branch1: Commit 2nd
+Branch1: Commit 2nd
+Branch2: Commit 3nd
+Branch2: Commit 3nd
+Branch2: Commit 3nd
+Branch2: Commit 3nd
